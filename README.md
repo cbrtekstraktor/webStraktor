@@ -9,6 +9,7 @@ The standard webStraktor output format is XML based, either in ASCII, UTF-8 or I
 webStraktor relies on the Apache HttpClient for retrieving content via the HTTP protocol. It adheres to the Robots Exclusion Protocol and it can be configured to operate in an anonymous way by connecting to the predominant types of proxy servers.
 webStraktor extends the functionality of web crawlers, web spiders or web bots by integrating scraping and crawling capabilities and it provides exhaustive logging and tracing information. 
 
+
 Components:
 The webStraktor crawler and script interpreter
 The webStraktor GUI builder is a java Swing based IDE (Integrated Development Environment). 
@@ -16,6 +17,7 @@ The webstraktor monitor is a java Swing application for displaying in real-time 
 
 Release history:
 20/04/2014 - First release
+../04/2016 - Added to GitHub
 
 Distribution: 
 This distribution comprises all required software, apart from a Java SDK and Ant software. 
